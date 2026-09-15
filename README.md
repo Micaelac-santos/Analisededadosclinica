@@ -14,6 +14,6 @@ O projeto tem como objetivo desenvolver uma solução de análise de dados para 
 
 ## Planejamento de funcionalidades:
 
-AC1- Tratamento e preparação dos dados: leitura da base XLSX utilizando Python/Pandas, remoção de duplicidades, padronização dos convênios e tratamento da coluna datas.
+AC1- Tratamento e preparação dos dados: leitura da base XLSX utilizando Python/Pandas, remoção de duplicidades, padronização dos convênios e tratamento da coluna datas, primeiro grafico para visualização no Power BI. 
  
 
