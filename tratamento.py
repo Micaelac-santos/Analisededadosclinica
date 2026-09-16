@@ -30,7 +30,7 @@ dados["Data_Consulta"] = pd.to_datetime(
     dados["Data_Consulta"],
     dayfirst=True,
     errors="coerce"
-)
+).dt.strftime("%d/%m/%Y") 
 
 # 5. Conferir o resultado
 print("\nLinhas depois do tratamento:", len(dados))
